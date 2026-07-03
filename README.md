@@ -53,7 +53,7 @@ O TidyMind lê a extensão do arquivo e o envia para pastas específicas criadas
 * [Python](https://www.python.org/)
 * [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (Interface Gráfica)
 * [Watchdog](https://github.com/gorakhargosh/watchdog) (Monitoramento do Sistema de Arquivos)
-* [PyInstaller](https://pyinstaller.org/) (Compilação)
+* [PyInstaller](https://pyinstaller.org/) (Compilador)
 
 ---
 
